@@ -1,0 +1,5 @@
+<root>
+    <item name='java.io.DataOutputStream'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

@@ -1,0 +1,157 @@
+.lsButton {
+       -fx-background-color:  transparent;
+       -fx-border-color:  rgba(255, 255, 255, 0.65);
+       -fx-border-radius: 5;
+}.lsButton:hover {
+        -fx-background-color:  rgba(255, 255, 255, 0.1);
+ }
+
+
+.closeButton {
+        -fx-background-color: transparent;
+        -fx-background-radius: 3;
+        -fx-border-color: transparent;
+}.closeButton:hover {
+        -fx-background-color: rgba(227,38,54, 0.8);
+}
+
+.scroll-pane .viewport {
+    -fx-background-color: transparent; /*or whatever you want*/
+    }
+
+.scroll-pane {
+    -fx-background-color:transparent;
+}
+
+.closeField {
+        -fx-background-color :rgba(255, 255, 255, 0.8);
+}
+.acceptCloseButton {
+-fx-background-color : transparent;
+-fx-background-radius : 30;
+-fx-background-color :rgba(255, 255, 255, 0.1);
+
+}
+.acceptCloseButton:hover {
+        -fx-background-color :rgba(255, 255, 255, 0.01);
+
+}
+.cancelButton{
+        -fx-background-color : transparent;
+        -fx-text-fill: #6e4dc9;
+        -fx-border-color: transparent;
+}.cancelButton:hover{
+        -fx-text-fill: #3b1aa1;
+}
+
+.fields, .wrong {
+        -fx-background-color:   rgba(255, 255, 255, 0.6);
+}.fields:hover {
+        -fx-background-color:   rgba(255, 255, 255, 0.9);
+}.fields:focused {
+        -fx-background-color:   rgba(255, 255, 255, 0.9);
+}
+.wrong {
+        -fx-border-width: 1;
+        -fx-border-color: #C41E3A;
+        -fx-border-radius: 3;
+}
+
+.categories {
+    -fx-background-radius: 50%;
+    -fx-border-color: transparent;
+    -fx-border-radius: 0;
+    -fx-background-color: rgba(255, 255, 255, 0.1);
+}.categories:hover {
+  -fx-background-color: transparent;
+}.categories:focused {
+  -fx-background-color: transparent;
+}
+
+.root{
+    -fx-background-color: #262626;
+}
+
+.table-view{
+   -fx-background-color: transparent;
+}
+
+.table-view:focused{
+    -fx-background-color: transparent;
+}
+
+.table-view .column-header-background{
+    -fx-background-color: #804CB8;
+}
+
+.table-view .column-header-background .label{
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+}
+
+.table-view .table-cell{
+    -fx-text-fill: white;
+}
+
+.table-row-cell{
+    -fx-background-color: -fx-table-cell-border-color, #9E77C5;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+
+.table-row-cell:odd{
+    -fx-background-color: -fx-table-cell-border-color, #9E77C5;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #005797;
+    -fx-background-insets: 0;
+    -fx-background-radius: 1;
+}
+
+.table-view > .virtual-flow > .scroll-bar:vertical,
+.table-view > .virtual-flow > .scroll-bar:vertical > .track,
+.table-view > .virtual-flow > .scroll-bar:vertical > .track-background,
+.table-view > .virtual-flow > .scroll-bar:horizontal,
+.table-view > .virtual-flow > .scroll-bar:horizontal > .track,
+.table-view > .virtual-flow > .scroll-bar:horizontal > .track-background {
+    -fx-background-color: transparent;
+}
+
+
+
+.table-view > .virtual-flow > .scroll-bar > .increment-button,
+.table-view > .virtual-flow > .scroll-bar > .decrement-button {
+      -fx-opacity: 0;
+  }
+
+.OnCurrentGamesWindowFindGameButtons {
+    -fx-background-color: transparent;
+    -fx-background-radius: 10;
+}.OnCurrentGamesWindowFindGameButtons:hover{
+    -fx-background-color: rgba(255,255,255,0.1);
+}
+
+.resultButton {
+    -fx-background-color: rgba(255,255,255,0.1);
+    -fx-background-radius: 0;
+    -fx-text-fill: white;
+}
+
+.resultButton:hover {
+    -fx-background-color: rgba(255,255,255,0.3);
+}
+.resultButton:focused {
+    -fx-background-color: rgba(255,255,255,0.3);
+}
+
+.searchBox {
+    -fx-background-radius:  0 20 20 0;
+    -fx-background-color:  rgba(255,255,255,0.1);
+}
