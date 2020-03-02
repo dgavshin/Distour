@@ -5,7 +5,7 @@ Disputes + Tournaments
 ![Image alt](https://github.com/shokking5/distour/raw/master/src/sample/assets/login_page.jpg)
 
 ### Categories Page
-![Image alt](https://github.com/shokking5/distour/raw/master/src/sample/assets/categories_page.jpg)
+![Image alt](https://github.com/shokking5/distour/raw/master/src/sample/assets/categories_page.png)
 
 ### Results Page
 ![Image alt](https://github.com/shokking5/distour/raw/master/src/sample/assets/results_page.jpg)
