@@ -1,4 +1,4 @@
-# distour
+# Distour
 Disputes + Tournaments
 
 Java desktop application. The interest of this project is that it does not use a single framework to configure the network, everything works on sockets. Front part developed on javaFX.
