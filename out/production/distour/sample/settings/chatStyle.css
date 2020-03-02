@@ -1,0 +1,32 @@
+.searchField {
+	-fx-background-color: transparent;
+	-fx-border-width: 2px 2px 2px 2px;
+	-fx-border-color: #804CB8;
+	-fx-border-radius : 3;
+	-fx-text-fill: #4C0594;
+	-fx-prompt-text-fill: #4C0594 ;
+}
+.searchField:focused {
+	-fx-border-color: #4C0594;
+	-fx-prompt-text-fill: transparent;
+}
+
+.searchButton {
+	-fx-background-color: #804CB8;
+	-fx-border-width: 0px 0px 5px 0px;
+	-fx-border-color: rgba(0,0,0,0.2);
+	-fx-text-fill: white;
+}
+.searchButton:hover {
+	-fx-border-width: 0px 0px 0px 0px;
+	-fx-prompt-text-fill: transparent;
+}
+
+.labelInChat {
+-fx-background-color:  #804CB8;
+-fx-background-radius:  6 30 30 30;
+}
+.mineMessage {
+-fx-background-color:  red;
+-fx-background-radius:  6 30 30 30;
+}

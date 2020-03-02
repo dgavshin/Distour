@@ -156,6 +156,7 @@ public class CategoriesController {
                 setLabel(searchLabel);
 
                 searchPane.setLayoutX(-953);
+
                 searchPane.setLayoutY(126);
                 searchPane.setPrefWidth(953);
                 searchPane.setPrefHeight(523);
@@ -199,7 +200,7 @@ public class CategoriesController {
             }
             //SETTING FOR IMAGE VIEW;
             {
-                imageForSlideToCurrentFromMain.setImage(new Image("file:///C:/Users/shokk/Desktop/distour/src/sample/assets/slideUp-Down.png"));
+                // imageForSlideToCurrentFromMain.setImage(new Image("file:///C:/Users/shokk/Desktop/distour/src/sample/assets/slideUp-Down.png"));
                 imageForSlideToCurrentFromMain.setRotate(180);
                 imageForSlideToCurrentFromMain.setFitWidth(35);
                 imageForSlideToCurrentFromMain.setFitHeight(35);

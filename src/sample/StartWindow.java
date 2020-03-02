@@ -7,7 +7,7 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
-import org.scenicview.ScenicView;
+// import org.scenicview.ScenicView;
 import sample.Chat.Client;
 import sample.Controllers.ControllersConst;
 
@@ -30,7 +30,7 @@ public class StartWindow extends Application {
         primaryStage.initStyle(StageStyle.UNDECORATED);
         primaryStage.setResizable(false);
         StartWindow.primaryStage = primaryStage;
-        create("fxmlFiles/Arkanoid.fxml");
+        create("fxmlFiles/Categories.fxml");
 //        ScenicView.show(getPrimaryStage().getScene());
     }
 
