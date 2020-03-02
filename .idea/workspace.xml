@@ -3,9 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="298c1e9c-509a-4227-9f37-8a9474d125bc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sample/Controllers/CategoriesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Controllers/CategoriesController.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> features
       <change beforePath="$PROJECT_DIR$/src/sample/StartWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/StartWindow.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,6 +20,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
+=======
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="213" />
+    <option name="y" value="50" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+>>>>>>> features
   </component>
   <component name="ProjectId" id="1YZvyBBl4Q2aKU07T3spNfXzbik" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -89,11 +102,14 @@
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/../distour-git" />
     </ignored-roots>
+=======
+>>>>>>> features
   </component>
   <component name="masterDetails">
     <states>
