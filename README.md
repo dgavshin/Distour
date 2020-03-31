@@ -1,7 +1,7 @@
 # Distour
 Disputes + Tournaments
 
-Java desktop application. The interest of this project is that it does not use any framework to configure the network, everything (except UI exactly) works on sockets. Front part developed on javaFX.
+Java desktop application. The interest of this project is that it does not use any framework to configure the network, everything (except UI of course) works on sockets. Front part developed on javaFX.
 
 ### Login Page
 ![Image alt](https://github.com/shokking5/distour/raw/master/src/sample/assets/login_page.jpg)
